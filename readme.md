@@ -1,4 +1,4 @@
-# Synthetic Hospital Data Generation
+# Synthetic Hospital Data Generation for "Top 20 dataset to be displayed on a dashboard for a hospital administrator in developing country"
 
 This project generates synthetic data for a hospital in a developing country, focusing on creating datasets that align with FHIR standards. These datasets can be used to analyze various hospital metrics to aid in administrative decision making. Here's a brief summary of the datasets we've generated:
 
